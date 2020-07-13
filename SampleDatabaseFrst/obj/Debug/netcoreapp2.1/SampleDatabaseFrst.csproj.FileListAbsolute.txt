@@ -1,0 +1,12 @@
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\bin\Debug\netcoreapp2.1\SampleDatabaseFrst.deps.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\bin\Debug\netcoreapp2.1\SampleDatabaseFrst.runtimeconfig.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\bin\Debug\netcoreapp2.1\SampleDatabaseFrst.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\bin\Debug\netcoreapp2.1\SampleDatabaseFrst.dll
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.genruntimeconfig.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\bin\Debug\netcoreapp2.1\SampleDatabaseFrst.pdb
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.dll
+C:\Users\thiag\source\repos\TutorialEFCore\SampleDatabaseFrst\obj\Debug\netcoreapp2.1\SampleDatabaseFrst.pdb

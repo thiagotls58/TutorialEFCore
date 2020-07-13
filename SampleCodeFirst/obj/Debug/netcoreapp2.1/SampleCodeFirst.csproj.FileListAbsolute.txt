@@ -1,0 +1,12 @@
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\bin\Debug\netcoreapp2.1\SampleCodeFirst.deps.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\bin\Debug\netcoreapp2.1\SampleCodeFirst.runtimeconfig.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\bin\Debug\netcoreapp2.1\SampleCodeFirst.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\bin\Debug\netcoreapp2.1\SampleCodeFirst.dll
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\bin\Debug\netcoreapp2.1\SampleCodeFirst.pdb
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.dll
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.pdb
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.genruntimeconfig.cache
+C:\Users\thiag\source\repos\TutorialEFCore\SampleCodeFirst\obj\Debug\netcoreapp2.1\SampleCodeFirst.csprojAssemblyReference.cache
